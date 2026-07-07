@@ -1,0 +1,6 @@
+{
+  "name": "Perbendaharaan Rahasia",
+  "description": "Aplikasi bimbingan batin & hikmah ketuhanan (Nafas, Nama Allah, Bismillah, Huruf Hijaiyah) berlandaskan ajaran Wali Songo & Ulama Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
